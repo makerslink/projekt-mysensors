@@ -1,2 +1,2 @@
 # projekt-mysensors
-Mysensors PCB etc
+Mysensors PCB etc.
